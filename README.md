@@ -105,7 +105,7 @@ Utilização da metodologia CRISP-DM em ambiente Jupyter Notebook.
 - Construção de dashboards profissionais
 - Soluções em IA aplicada a negócios
 - Escrita estratégica / storytelling / apresentações
-- Consultoria em gestão e processos
+- Consultoria em gestão e processos 
 
 
 ---
