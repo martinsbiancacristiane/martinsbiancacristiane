@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Bianca+Cristiane+Martins+-+Data+Science+%7C+IA+%7C+Estratégia)
+
 
 
 # Bianca Cristiane Martins
