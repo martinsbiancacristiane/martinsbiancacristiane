@@ -120,4 +120,4 @@ Utilização da metodologia CRISP-DM em ambiente Jupyter Notebook.
 
 
 ## ✨ Frase que me representa
-> "Viver é maravilhoso — especialmente quando transformamos boas histórias em grandes resultados."
+> "Viver é maravilhoso quando transformamos boas histórias em grandes resultados."
