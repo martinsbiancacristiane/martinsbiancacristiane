@@ -112,7 +112,7 @@ Utilização da metodologia CRISP-DM em ambiente Jupyter Notebook.
 
 
 ## 📫 Contato
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/bianca-martins-2440018b
 - **E-mail:** martinsbiancacristiane@gmail.com
 
 
